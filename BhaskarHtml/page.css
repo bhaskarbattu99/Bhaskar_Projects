@@ -1,0 +1,57 @@
+.nav-items{
+     display: flex; 
+     flex-direction: row; 
+    justify-content: space-between;
+}
+.tags{
+    margin-right: 10px;
+
+}
+
+.tags:hover{
+    color: rgb(249, 3, 3);
+    
+}
+.backg{
+    
+    width: 100px;
+}
+.topsection{
+    background-color: rgb(145, 250, 250);
+    background-size: cover;
+
+}
+.nav-con{
+    margin-top: 20px;
+}
+.div:hover{
+    color:wheat;
+
+}
+.div{
+    background-color: rgb(166, 87, 241);
+    width: 280px;
+    border-radius:40px;
+    padding: 20px;
+}
+.div:hover{
+    background-color: red;
+}
+.homepage{
+background-image: url(solidblue.jpg);
+background-size: cover;
+background-attachment: fixed;
+}
+.h2{
+    text-align: center;
+}
+.submit :hover{
+    color: rgb(0, 183, 255);
+    
+}
+.submit{
+    text-align: center;
+}
+.tags{
+    text-decoration: none;
+}
